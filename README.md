@@ -1,45 +1,44 @@
-### ¡Hola! Soy Juan Arazola 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=180&section=header&text=Juan%20Arazola&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+</div>
 
-Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con una sólida base técnica previa en **Sistemas Informáticos y Redes**. Me apasiona entender cómo funcionan las cosas tanto a nivel de infraestructura y bases de datos como en la lógica de software.
-
----
-
-### 🛠️ Stack Tecnológico & Herramientas
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
+<div align="center">
+  <h3>🚀 Estudiante de DAM & Entusiasta de Sistemas</h3>
+  <p><i>Transformando código, lógica e infraestructura en soluciones multiplataforma reales.</i></p>
+</div>
 
 ---
 
-### 📊 Estadísticas y Actividad
+### 💻 Stack Tecnológico & Arquitectura
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juan-Arazola&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Arazola&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
+  <!-- Primera línea: Lenguajes y Desarrollo -->
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
 
-<!--
-**Juan-Arazola/Juan-Arazola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <br>
 
-Here are some ideas to get you started:
+  <!-- Segunda línea: Bases de datos y Sistemas -->
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 📊 Rendimiento y Actividad en GitHub
+
+<div align="center">
+  <!-- Gráficos dinámicos con efecto de gradiente -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Juan-Arazola&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Arazola&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Langs" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,30&height=40&section=footer" width="100%" />
+</div>
